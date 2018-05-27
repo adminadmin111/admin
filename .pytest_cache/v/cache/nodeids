@@ -1,1 +1,5 @@
-[]
+[
+  "scripts/test001.py::Test_001::()::test_001[1]",
+  "scripts/test001.py::Test_001::()::test_001[2]",
+  "scripts/test001.py::Test_001::()::test_001[3]"
+]
